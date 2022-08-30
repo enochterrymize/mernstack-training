@@ -14,7 +14,7 @@ const FeatureList = [
   },
   {
     title: 'CSS',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
+    Svg: require('@site/static/img/undraw_css.svg').default,
     description: (
       <>
         <code>CSS</code>CSS provides the skin to the structure in the form
@@ -24,7 +24,7 @@ of design, formatting, and layout.
   },
   {
     title: 'MongoDB',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
+    Svg: require('@site/static/img/undraw_mongodb.svg').default,
     description: (
       <>
         MongoDB is a NoSQL database in which data is stored
@@ -35,7 +35,7 @@ a lot of resemblance to JSON.
   },
   {
     title: 'ExpressJS',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
+    Svg: require('@site/static/img/undraw_express.svg').default,
     description: (
       <>
         Express is a flexible and clean Node.js web application
@@ -46,7 +46,7 @@ develop web and mobile applications.
   },
   {
     title: 'ReactJS',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
+    Svg: require('@site/static/img/undraw_react.svg').default,
     description: (
       <>
         React is an open-source JavaScript library that is
@@ -57,7 +57,7 @@ single-page applications.
   },
   {
     title: 'NodeJS',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
+    Svg: require('@site/static/img/undraw_node.svg').default,
     description: (
       <>
        NodeJS is a cross-platform JavaScript runtime
