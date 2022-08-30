@@ -7,7 +7,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'MERN STACK Project Training',
-  tagline: 'MangoDB,ExpressJS,ReactJS,NodeJS',
+  tagline: 'Mordern Application Development with MangoDB, ExpressJS, ReactJS, NodeJS',
   url: 'https://your-docusaurus-test-site.com',
   baseUrl: '/',
   onBrokenLinks: 'throw',
@@ -120,7 +120,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Enoch George, Inc. Built with Docusaurus.`,
       },
       prism: {
         theme: lightCodeTheme,

@@ -2,9 +2,9 @@
 sidebar_position: 1
 ---
 
-# Tutorial Intro
+# MERN Stack Intro
 
-Let's discover **Docusaurus in less than 5 minutes**.
+Let's discover **MERN STACK**.
 
 ## Getting Started
 
