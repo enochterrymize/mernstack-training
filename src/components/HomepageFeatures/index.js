@@ -5,11 +5,10 @@ import styles from './styles.module.css';
 const FeatureList = [
   {
     title: 'HTML',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    Svg: require('@site/static/img/undraw_html.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        HTML provides the basic structure.
       </>
     ),
   },
@@ -18,8 +17,8 @@ const FeatureList = [
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        <code>CSS</code>CSS provides the skin to the structure in the form
+of design, formatting, and layout.
       </>
     ),
   },
@@ -28,8 +27,9 @@ const FeatureList = [
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        MongoDB is a NoSQL database in which data is stored
+in documents that consist of key-value pairs, sharing
+a lot of resemblance to JSON.
       </>
     ),
   },
@@ -38,8 +38,9 @@ const FeatureList = [
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        Express is a flexible and clean Node.js web application
+framework that provides a robust set of features to
+develop web and mobile applications.
       </>
     ),
   },
@@ -48,8 +49,9 @@ const FeatureList = [
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        React is an open-source JavaScript library that is
+used for building user interfaces specifically for
+single-page applications.
       </>
     ),
   },
@@ -58,8 +60,10 @@ const FeatureList = [
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+       NodeJS is a cross-platform JavaScript runtime
+environment, it’s built on Chrome’s V8 engine to run
+JavaScript code outside the browser, for easily
+building fast and scalable applications.
       </>
     ),
   },
